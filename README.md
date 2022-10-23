@@ -59,6 +59,3 @@
                 └── validators.go // validators for the current module
     
 ````
-
-## Contact the author
-<img src="qrcode.jpg" width="300" align=center alt="WeChat: wuhe52"/>
